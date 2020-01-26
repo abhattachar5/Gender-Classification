@@ -9,6 +9,7 @@ A Gender Classifier based on the UKT Image dataset and a custom VGG CNN architec
 - The dataset can be downloaded from https://susanqq.github.io/UTKFace/  (Note: Please use the Aligned and Cropped Faces repository) 
 - The labels of each face image is embedded in the file name, formated like [age]_[gender]_[race]_[date&time].jpg
 - The images were seggregated by using the Gender code in the lables of each image. Please use the file **Preprocessing_File Copy_UKT Dataset** for seggregating the dataset into Male and Females
+- The dataset is split 80-20 into Train and Test
 
 
 # Custom VGG Architecture
