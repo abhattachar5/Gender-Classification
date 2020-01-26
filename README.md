@@ -28,5 +28,5 @@ A Gender Classifier based on the UKT Image dataset and a custom VGG CNN architec
 
 
 # Using the Trained Model
-- The trained model can be found in **Kaggle_Gender_Classifier2_128_CustomVGG_100epochs_09012020.h5
-- Use the file **Video_Gender Predictor_CustomVGG_CNN** changing the model location in the file to use the gender predictor with the computer Webcam
+- Use the file  **Model Generator_Gender Prediction_CustomVGG** to train the model on the UKT Image dataset and save the model file (.h5) at a desired location
+- Use the file **Video_Gender Predictor_CustomVGG_CNN** by inserting the Model file name and location in order to predict gender with the computer Webcam
